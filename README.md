@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Sladjana-S
-- 👀 I’m interested in learning HTML, CSS and JS 
-- 🌱 I’m currently learning HTML
+Hi, I'm Sladjana 👋
+
+About Me
+
+Manual QA tester and Business Analyst with experience in manual testing, and defect tracking, requirements gathering, JIRA, user stories and acceptance criteria.
+
 
 <!---
 Sladjana-S/Sladjana-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
