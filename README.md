@@ -1,8 +1,5 @@
 Hi, I'm Sladjana 👋
-
-About Me
-
-Manual QA tester and Business Analyst with experience in manual testing, and defect tracking, requirements gathering, JIRA, user stories and acceptance criteria.
+ - Manual QA tester and Business Analyst with experience in manual testing, and defect tracking, requirements gathering, JIRA, user stories and acceptance criteria.
 
 
 <!---
